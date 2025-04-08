@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">⚡ *Adrija* here ⚡</h1>
+<h1 align="center">⚡ <i>Adrija</i> here ⚡</h1>
 
 <p align="center">
   <i>Final-Year CSE Student | Code-blooded | Ctrl+C / Ctrl+V Ninja</i>  

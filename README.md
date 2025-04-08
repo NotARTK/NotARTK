@@ -23,7 +23,10 @@
 Languages     : C | C++ | Java | JavaScript | TypeScript  
 Tools & DB    : Git | GitHub | MySQL | VS Code | Linux
 
-**### 💬 Hit Me Up**
+---
+
+
+### 💬 Hit Me Up
 
 **Let's connect and build something awesome together 🚀**
 

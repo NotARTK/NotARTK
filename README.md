@@ -23,5 +23,4 @@
 Languages     : C | C++ | Java | JavaScript | TypeScript  
 Tools & DB    : Git | GitHub | MySQL | VS Code | Linux
 
-<p align="center"> <a href="in/adrija-mukherjee-6586b4225" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="adrijamukherjee2016@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 

@@ -1,16 +1,27 @@
 ## Hi there 👋
+<h1 align="center">⚡ *Adrija* here ⚡</h1>
 
-<!--
-**NotARTK/NotARTK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Final-Year CSE Student | Code-blooded | Ctrl+C / Ctrl+V Ninja</i>  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 👽 pronouns - she/her
+- 👨‍💻 Currently working on frameworks such as react etc...
+- 🧪 Debugging life like it's a recursive function
+- 💥 Living in the terminal, thriving on caffeine
+- ⚔️ Favorite weapon: `git push --force`
+
+---
+
+### ⚙️ Tech Stack
+
+```txt
+Languages     : C | C++ | Java | JavaScript | TypeScript  
+Tools & DB    : Git | GitHub | MySQL | VS Code | Linux
+
+<p align="center"> <a href="in/adrija-mukherjee-6586b4225" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="adrijamukherjee2016@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
